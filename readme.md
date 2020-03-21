@@ -12,4 +12,5 @@ password:root
 ##mybatis genetator
 mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 
-
+##结果运行
+![](http://ww1.sinaimg.cn/large/ed4268b7gy1gd1n25g63jj211v0j9gm0.jpg)
